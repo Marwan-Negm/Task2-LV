@@ -1,0 +1,10 @@
+03:17:58 **** Build of configuration Debug for project DEMO ****
+make -j20 all 
+arm-none-eabi-size  DEMO.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5788	     12	   1572	   7372	   1ccc	DEMO.elf
+Finished building: default.size.stdout
+ 
+
+03:17:58 Build Finished. 0 errors, 0 warnings. (took 151ms)
+

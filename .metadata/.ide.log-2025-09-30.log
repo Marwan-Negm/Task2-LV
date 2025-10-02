@@ -1,0 +1,39 @@
+2025-10-01 07:23:45,838 [INFO] WebApp:194 - Connection lost
+2025-10-01 07:23:46,596 [INFO] WebApp:191 - Connection restablished
+2025-10-01 07:23:46,948 [INFO] WebApp:194 - Connection lost
+2025-10-01 07:23:52,751 [INFO] WebApp:191 - Connection restablished
+2025-10-01 07:24:14,055 [INFO] WebApp:194 - Connection lost
+2025-10-01 11:52:27,883 [INFO] WebApp:191 - Connection restablished
+2025-10-01 11:52:29,404 [INFO] WebApp:194 - Connection lost
+2025-10-01 11:52:29,680 [INFO] WebApp:191 - Connection restablished
+2025-10-01 11:52:53,911 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 239421144 Bytes (591396864)
+2025-10-01 11:52:56,129 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 286783624 Bytes (591396864)
+2025-10-01 11:52:56,572 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: NVIC
+2025-10-01 11:52:56,573 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: GPIO
+2025-10-01 11:52:56,573 [INFO] BlockDiagram:2775 - set Specific Code input for plugin: RCC
+2025-10-01 11:52:56,573 [INFO] CodeGenerator:892 - code generatio: config db path: C:\ST\STM32CubeIDE_1.19.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.15.0.202507011659\\db\
+2025-10-01 11:52:56,686 [INFO] CodeEngine:265 - oldGeneratedFile, C:\ARM\DEMO\MXTmpFiles\license.tmp_save
+2025-10-01 11:52:57,084 [INFO] CodeEngine:289 - Generated code: C:\ARM\DEMO\MXTmpFiles\license.tmp
+2025-10-01 11:52:57,318 [INFO] CodeEngine:265 - oldGeneratedFile, C:\ARM\DEMO\MXTmpFiles\gpio.tmp_save
+2025-10-01 11:52:57,425 [INFO] CodeEngine:289 - Generated code: C:\ARM\DEMO\MXTmpFiles\gpio.tmp
+2025-10-01 11:52:57,435 [INFO] CodeEngine:265 - oldGeneratedFile, C:\ARM\DEMO\Core\Src\stm32f1xx_it.c_save
+2025-10-01 11:52:57,534 [INFO] CodeEngine:289 - Generated code: C:\ARM\DEMO\Core\Src\stm32f1xx_it.c
+2025-10-01 11:52:57,539 [INFO] CodeEngine:265 - oldGeneratedFile, C:\ARM\DEMO\Core\Inc\stm32f1xx_it.h_save
+2025-10-01 11:52:57,591 [INFO] CodeEngine:289 - Generated code: C:\ARM\DEMO\Core\Inc\stm32f1xx_it.h
+2025-10-01 11:52:57,625 [INFO] CodeEngine:265 - oldGeneratedFile, C:\ARM\DEMO\Core\Src\stm32f1xx_hal_msp.c_save
+2025-10-01 11:52:57,695 [INFO] CodeEngine:289 - Generated code: C:\ARM\DEMO\Core\Src\stm32f1xx_hal_msp.c
+2025-10-01 11:52:57,699 [INFO] CodeEngine:265 - oldGeneratedFile, C:\ARM\DEMO\MXTmpFiles\system.tmp_save
+2025-10-01 11:52:57,742 [INFO] CodeEngine:289 - Generated code: C:\ARM\DEMO\MXTmpFiles\system.tmp
+2025-10-01 11:52:57,750 [INFO] CodeEngine:321 - oldGeneratedFile, C:\ARM\DEMO\Core\Inc\stm32f1xx_hal_conf.h_save
+2025-10-01 11:52:57,802 [INFO] CodeEngine:345 - Generated code: C:\ARM\DEMO\Core\Inc\stm32f1xx_hal_conf.h
+2025-10-01 11:52:57,833 [INFO] ApiDbMcu:532 - Load IP Config File for RCC
+2025-10-01 11:52:57,839 [INFO] CodeEngine:265 - oldGeneratedFile, C:\ARM\DEMO\Core\Inc\main.h_save
+2025-10-01 11:52:57,901 [INFO] CodeEngine:289 - Generated code: C:\ARM\DEMO\Core\Inc\main.h
+2025-10-01 11:52:57,907 [INFO] CodeEngine:265 - oldGeneratedFile, C:\ARM\DEMO\Core\Src\main.c_save
+2025-10-01 11:52:58,016 [INFO] CodeEngine:289 - Generated code: C:\ARM\DEMO\Core\Src\main.c
+2025-10-01 11:52:58,211 [INFO] ProjectBuilder:3606 - Time for Copy HAL[1] : 80mS.
+2025-10-01 11:52:58,215 [INFO] ProjectBuilder:5216 - Project Generator version: 4.7.0-B52
+2025-10-01 11:52:58,265 [INFO] ConfigFileManager:1595 - The Die is : DIE410
+2025-10-01 11:52:58,271 [INFO] ApiDbMcu:532 - Load IP Config File for FATFS
+2025-10-01 11:52:58,275 [INFO] ApiDbMcu:532 - Load IP Config File for FREERTOS
+2025-10-01 11:52:58,279 [INFO] ApiDbMcu:532 - Load IP Config File for USB_DEVICE
