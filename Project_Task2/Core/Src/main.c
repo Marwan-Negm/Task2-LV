@@ -94,20 +94,20 @@ int main(void)
   /* Infinite loop */
   /* USER CODE BEGIN WHILE */
   while (1)
-  {
+  {// it is set as pull up input pin
 
-
+// found in page 227
 	   currentState = HAL_GPIO_ReadPin(GPIOA,GPIO_PIN_12);
-
+// using weighted mean to prevent bouncing
 	  state=state*0.7f+currentState*0.3f;
 
 
 
 
 	  if (state<0.3f)
-	  {
+	  {// found in page 227
 		  HAL_GPIO_WritePin(GPIOA,GPIO_PIN_11,GPIO_PIN_SET);
-	  }
+	  }// making the range 0.3 to 0.7 a dead zone to prevent bouncing
 	  else if(state>0.7f){HAL_GPIO_WritePin(GPIOA,GPIO_PIN_11,GPIO_PIN_RESET);}
 
 
